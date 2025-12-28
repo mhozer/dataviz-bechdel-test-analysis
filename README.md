@@ -10,23 +10,18 @@ This project analyzes the representation of women in Hollywood movies using the 
 
 ### 1. The Budget Gap
 Does money affect equality? This plot shows the budget distribution for movies that Pass vs. Fail the test.
-![Budget Gap](01_budget_gap.png)
 
 ### 2. Directors' Scorecards
 A look at how famous directors perform regarding gender equality.
-![Directors](02_directors_equality_scorecards.png)
 
 ### 3. Cinema's Genre DNA
 Which genres are the most inclusive?
-![Genre DNA](03_genre_dna.png)
 
 ### 4. The Profitability Paradox
 Comparing the ROI (Return on Investment) of movies that Pass vs. Fail.
-![ROI](04_profitability_paradox.png)
 
 ### 5. The Anatomy of Failure
 Why do movies fail? A breakdown of the reasons.
-![Failure Analysis](05_anatomy_of_failure.png)
 
 ---
 
